@@ -1,14 +1,14 @@
 <template>
   <div id="about-page" class="page-wrapper about-page content-page">
     <site-hero
-      title="About Us"
-      subtitle="Example About Page"
+      title="About This Site"
+      subtitle="Use at your own risk"
       image="/uploads/about-hero.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
         <div class="content">
-          <h3>Fake Heading</h3>
+          <h3>About Me</h3>
           <p>
             <strong>
               Edit this page in<code>/pages/about.vue</code>to fit your needs.
