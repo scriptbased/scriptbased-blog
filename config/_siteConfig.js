@@ -9,36 +9,36 @@ import theCMS from '../cms/netlify/cms'
  * General Site configurations
  */
 export default {
-  siteName: 'Awake',
-  tagline: 'A Nuxt.js Theme for Netlify CMS',
+  siteName: 'Script Based',
+  tagline: 'A Blog About All Kinds of Automation',
   featureImage: '/uploads/home-hero.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,
-    id: process.env.GOOGLE_ANALYTICS_ID
+    id: process.env.UA-165869783-1
   },
   mainMenu: [
     {
       name: 'About',
       link: '/about'
     },
-    {
-      name: 'Contact',
-      link: '/contact'
-    },
+#    {
+#      name: 'Contact',
+#      link: '/contact'
+#    },
     {
       name: 'Categories',
       link: '/categories'
     },
     {
       name: 'Github Repo',
-      link: 'https://github.com/danielkellyio/awake-template',
+      link: 'https://github.com/scriptbased',
       target: '_blank'
-    },
-    {
-      name: 'Awake+ Premium',
-      link: 'https://awake-premium-lp.netlify.com/',
-      target: '_blank'
+#    },
+#    {
+#      name: 'Awake+ Premium',
+#      link: 'https://awake-premium-lp.netlify.com/',
+#      target: '_blank'
     }
   ],
   hero: {
