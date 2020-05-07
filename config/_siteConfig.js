@@ -32,7 +32,7 @@ export default {
     },
     {
       name: 'Github Repo',
-      link: 'https://github.com/scriptbased',
+      link: 'https://github.com/scriptbased/scripts',
       target: '_blank'
 /*    },
     {
