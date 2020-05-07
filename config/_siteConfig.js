@@ -22,11 +22,11 @@ export default {
       name: 'About',
       link: '/about'
     },
-#    {
-#      name: 'Contact',
-#      link: '/contact'
-#    },
-    {
+/*    {
+      name: 'Contact',
+      link: '/contact'
+    },
+*/    {
       name: 'Categories',
       link: '/categories'
     },
@@ -34,12 +34,12 @@ export default {
       name: 'Github Repo',
       link: 'https://github.com/scriptbased',
       target: '_blank'
-#    },
-#    {
-#      name: 'Awake+ Premium',
-#      link: 'https://awake-premium-lp.netlify.com/',
-#      target: '_blank'
-    }
+/*    },
+    {
+      name: 'Awake+ Premium',
+      link: 'https://awake-premium-lp.netlify.com/',
+      target: '_blank'
+*/    }
   ],
   hero: {
     theme: 'dark' // options: mist, light, dark
