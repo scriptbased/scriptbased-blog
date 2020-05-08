@@ -9,7 +9,7 @@
       <img
         v-for="x in frames"
         :key="x"
-        :src="`/logo-frames/logo-f${x - 1}.svg`"
+        :src="`/scriptbasedblack.png`"
       />
       <img
         v-for="x in frames"
