@@ -12,7 +12,7 @@ export default {
   siteName: 'Script Based',
   tagline: 'A Blog About All Kinds of Automation',
   featureImage: '/uploads/home-hero.jpg',
-  logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
+  logo: 'scriptbasedblack.png', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,
     id: process.env.GOOGLE_ANALYTICS_ID
