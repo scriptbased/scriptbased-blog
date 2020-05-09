@@ -63,6 +63,7 @@ export default {
 }
 
 .title {
+  font-family: "Courier New", Courier, monospace;
   font-weight: 300;
   @media (min-width: 768px) {
     font-size: 3.2rem;
