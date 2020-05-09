@@ -9,7 +9,7 @@ import theCMS from '../cms/netlify/cms'
  * General Site configurations
  */
 export default {
-  siteName: 'Script Based',
+  siteName: '[script based]',
   tagline: 'A Blog About All Kinds of Automation',
   featureImage: '/uploads/home-hero.jpg',
   logo: 'scriptbasedblack.png', // 'logo-component', // or '/logo.svg' for regular image
@@ -72,7 +72,7 @@ export default {
     // Can be the form action on a mail chimp form, a hubspot form,
     // or any other url you want to post the form data to
     mailchimp: {
-      on: true,
+      on: false,
       formAction:
         'https://danielkelly.us3.list-manage.com/subscribe/post?u=d3c2e762b66a2353d0bc29bf3&amp;id=2abeaa06e0'
     },
