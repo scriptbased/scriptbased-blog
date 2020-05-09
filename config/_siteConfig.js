@@ -22,11 +22,11 @@ export default {
       name: 'About',
       link: '/about'
     },
-/*    {
+    {
       name: 'Contact',
       link: '/contact'
     },
-*/    {
+    {
       name: 'Categories',
       link: '/categories'
     },
@@ -42,7 +42,7 @@ export default {
 */    }
   ],
   hero: {
-    theme: 'mist' // options: mist, light, dark
+    theme: 'light' // options: mist, light, dark
   },
 
   // Main Layout/Style
