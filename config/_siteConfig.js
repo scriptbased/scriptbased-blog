@@ -9,7 +9,7 @@ import theCMS from '../cms/netlify/cms'
  * General Site configurations
  */
 export default {
-  siteName: '[script based]',
+  siteName: 'script based',
   tagline: 'A Blog About All Kinds of Automation',
   featureImage: '/uploads/home-hero.jpg',
   logo: 'scriptbasedblack.png', // 'logo-component', // or '/logo.svg' for regular image
