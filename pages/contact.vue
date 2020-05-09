@@ -1,7 +1,7 @@
 <template>
   <div id="contact-page" class="page-wrapper contact-page content-page">
     <site-hero
-      title="contact me"
+      title="[contact me]"
       subtitle="places where you can find me"
       image="/uploads/contact-hero.jpg"
     ></site-hero>

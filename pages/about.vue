@@ -1,7 +1,7 @@
 <template>
   <div id="about-page" class="page-wrapper about-page content-page">
     <site-hero
-      title="about this site"
+      title="[about this site]"
       subtitle="use at your own risk"
       image="/uploads/about-hero.jpg"
     ></site-hero>
