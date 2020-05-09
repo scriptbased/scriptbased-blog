@@ -10,7 +10,7 @@ import theCMS from '../cms/netlify/cms'
  */
 export default {
   siteName: '[script based]',
-  tagline: 'A Blog About All Kinds of Automation',
+  tagline: 'a blog about all kinds of automation',
   featureImage: '/uploads/home-hero.jpg',
   logo: 'scriptbasedblack.png', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
@@ -19,27 +19,22 @@ export default {
   },
   mainMenu: [
     {
-      name: 'About',
+      name: 'about',
       link: '/about'
     },
     {
-      name: 'Contact',
+      name: 'contact',
       link: '/contact'
     },
     {
-      name: 'Categories',
+      name: 'categories',
       link: '/categories'
     },
     {
-      name: 'Github Repo',
+      name: 'github',
       link: 'https://github.com/scriptbased/scripts',
       target: '_blank'
-/*    },
-    {
-      name: 'Awake+ Premium',
-      link: 'https://awake-premium-lp.netlify.com/',
-      target: '_blank'
-*/    }
+    }
   ],
   hero: {
     theme: 'dark' // options: mist, light, dark
