@@ -37,15 +37,15 @@
               <p class="title">
                 Twitter
               </p>
-              <a href="https:/twitter.com/joelinthecloud"><p class="subtitle">
+              <a href="https://twitter.com/joelinthecloud">
+			  <p class="subtitle">
                 @joelinthecloud
               </p>
               <figure class="image is-1by1">
-			                  <opti-image 
+				<opti-image 
                   :src="require('~/assets/uploads/twitter.png').src"
                   :srcset="
-                    require('~/assets/uploads/twitter.png').srcSet
-                  "
+                    require('~/assets/uploads/twitter.png').srcSet"
                 />
               </figure>
 			  </a>
