@@ -1,6 +1,6 @@
 <template>
   <div id="home-page" class="page-wrapper home-page">
-    <site-hero :title="subtitle" :subtitle='huh' :image="featureImage">
+    <site-hero :title="subtitle" :image="featureImage">
       <button
         v-if="$siteConfig.newsletter.on"
         class="button is-primary"
