@@ -28,7 +28,7 @@ Some "trivia" about me:
 <li>I enjoy doing government paperwork (they're like complex puzzles and the challenge is to solve those... The rewards? Well...)</li>
 <li>Almost all things in my home can be voice controlled or through a wall-mounted touch screen</li>
 <li>Favorite movie: Back to the Future (trilogy)</li>
-<li>Favorite color: <p style="color:red;">orange</p></li>
+<li>Favorite color: <font style="color:red;">orange</font></li>
 <li>Random: you're never too old for Lego</li>
 </ul>
 <br>
