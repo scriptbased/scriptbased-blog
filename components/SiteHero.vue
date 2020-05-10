@@ -75,7 +75,7 @@ export default {
   margin: 0;
 }
 .subtitle {
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   margin-bottom: 0 !important;
 }
 .under-subtitle {
