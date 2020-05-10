@@ -4,7 +4,7 @@ subtitle: what you'll find on this blog
 category:
   - General
 author: Joel
-date: 2020-05-10T13:30:33.532Z
+date: 2020-05-10T13:58:05.855Z
 featureImage: /uploads/welcome.jpg
 ---
 Like many of you, I've been spending a lot more time at home lately (for future reference: this blog was started in May 2020, during the Corona virus pandemic) and decided to clean up and organize my "digital environment", such as previous PC backups, old hard drives, my OneNote and other places I've used to store "stuff".\
