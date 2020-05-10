@@ -20,10 +20,21 @@
 			<br>
 			The full background in all its glory about why I started this site please read my first post <a href = https://www.scriptbased.com/welcome-to-script-based>here</a> 
           </p>
-
           <h3>about me</h3>
           <p>
-            Little blurb about me here.
+The personal bit: 
+
+After being born and raised in The Netherlands, and living in London for a few years, moved to Florida in 2008. 
+
+Some "trivia" about me:
+- I enjoy doing government paperwork (they're like complex puzzles and the challenge is to solve those... The rewards? Well...)
+- Almost all things in my home can be voice controlled or through a wall-mounted touch screen
+- Favorite movie: Back to the Future (trilogy)
+- Favorite color: orange
+- Random: you're never too old for Lego
+
+The professional bit:
+Professionally it has mostly been Citrix, since I spend the majority of my career there (close to 19 years). Mostly had roles in Sales Engineering or SE related as well as a few Product roles. I decided to leave Citrix in September, because I was missing the culture that you can really only find in smaller organizations: short lines of communication, less internal meetings, less rules and making a direct impact on the success of a company. And that eventually led me to ControlUp and I can't express how excited I am to get back into the field and do it with such a talented group of people!"
           </p>
         </div>
       </template>
