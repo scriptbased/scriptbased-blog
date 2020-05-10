@@ -52,6 +52,11 @@ export default {
           name: 'twitter:card',
           content: `summary_large_image`
         },
+		{
+          hid: 'twitter:title',
+          name: 'twitter:title',
+          content: `Joel's Blog`
+        },
         {
           hid: 'og:site_name',
           name: 'og:site_name',
