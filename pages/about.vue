@@ -10,7 +10,14 @@
         <div class="content">
           <h3>about this site</h3>
           <p>
-            Little blurb about the site here. Link to first post
+            The TL;DR version of what you can expect to find on this site:
+<ul><li>
+<li>My ramblings and musings about automation, scripting and coding</li>
+<li>Cool things I’ve built, things I’ve “stolen” & modified/enhanced or new things I learned about</li>
+<li>Things I find online from others about scripting and automation</li>
+<li>Memes</li>
+</ul>
+The full background in all its glory about why I started this site please read my first post here https://www.scriptbased.com/welcome-to-script-based
           </p>
 
           <h3>about me</h3>
