@@ -1,5 +1,5 @@
 ---
 name: General
-image: /uploads/scriptbasedsquare.jpg
+image: /uploads/scriptbased.jpg
 description: Posts about this site
 ---
