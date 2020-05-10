@@ -32,8 +32,9 @@
               </div>
             </article>
           </div>
-      <div class="tile is-ancestor">
-          <div class="tile is-parent">
+          <div class="tile is-parent is-8">
+            <article class="tile is-child box">
+                     <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
                 Cool Stuff We Do
@@ -70,6 +71,8 @@
               <figure class="image is-1by1">
                 <opti-image width="500" height="500" />
               </figure>
+            </article>
+          </div>
             </article>
           </div>
         </div>
