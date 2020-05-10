@@ -17,7 +17,6 @@
           <p>
             Little blurb about me here.
           </p>
-          <quote-card />
         </div>
       </template>
 
