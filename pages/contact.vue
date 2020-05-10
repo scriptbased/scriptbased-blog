@@ -37,7 +37,7 @@
               <p class="title">
                 Twitter
               </p>
-              <p class="subtitle">
+              <a href = "https:/twitter.com/joelinthecloud"><p class="subtitle">
                 @joelinthecloud
               </p>
               <figure class="image is-1by1">
@@ -48,6 +48,7 @@
                   "
                 />
               </figure>
+			  </a>
             </article>
           </div>
           <div class="tile is-parent">
