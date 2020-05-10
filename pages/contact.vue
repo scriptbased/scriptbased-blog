@@ -38,10 +38,28 @@
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                Cool Stuff We Do
+                Twitter
               </p>
               <p class="subtitle">
-                Sooo Cool
+                @joelinthecloud
+              </p>
+              <figure class="image is-1by1">
+			                  <opti-image 
+                  :src="require('~/assets/uploads/contact-person.jpg').src"
+                  :srcset="
+                    require('~/assets/uploads/contact-person.jpg').srcSet
+                  "
+                />
+              </figure>
+            </article>
+          </div>
+          <div class="tile is-parent">
+            <article class="tile is-child box">
+              <p class="title">
+                Twitter
+              </p>
+              <p class="subtitle">
+                @scriptbased
               </p>
               <figure class="image is-1by1">
                 <opti-image width="500" height="500" />
@@ -51,23 +69,10 @@
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                Other Cool Things
+                LinkedIn
               </p>
               <p class="subtitle">
-                Just as cool
-              </p>
-              <figure class="image is-1by1">
-                <opti-image width="500" height="500" />
-              </figure>
-            </article>
-          </div>
-          <div class="tile is-parent">
-            <article class="tile is-child box">
-              <p class="title">
-                All the cool
-              </p>
-              <p class="subtitle">
-                that is all
+                joelstocker
               </p>
               <figure class="image is-1by1">
                 <opti-image width="500" height="500" />
