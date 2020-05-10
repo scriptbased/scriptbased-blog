@@ -1,14 +1,14 @@
 <template>
   <div id="about-page" class="page-wrapper about-page content-page">
     <site-hero
-      title="[about this blog]"
+      title="[about the site]"
       subtitle="use at your own risk"
       image="/uploads/about-hero.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
         <div class="content">
-          <h3>about this site</h3>
+          <h3>about this blog</h3>
           <p>
             The TL;DR version of what you can expect to find on this site:
 			<ul>
@@ -22,6 +22,7 @@
           <h3>about me</h3>
           <p>
 The personal bit: After being born and raised in The Netherlands, and living in London for a few years, moved to Florida in 2008. 
+<br>
 <br>
 Some "trivia" about me:
 <ul>
