@@ -25,7 +25,7 @@ With that heads-up out of the way, what can you expect to find on \[script based
 
 * My ramblings and musings about automation, scripting and coding (both for work and home)
 * Cool (sometimes quirky or pointless) things I've built, things I've "stolen" & modified/enhanced or new things I learned about
-* Things I find online from others about scripting and automation\
+* Things I find online from others about scripting and automation
 * Memes...you have to have memes
 
 ![](/uploads/createcontent.jpeg)
