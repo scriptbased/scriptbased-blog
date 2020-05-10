@@ -34,7 +34,8 @@
           </div>
           <div class="tile is-parent is-8">
             <article class="tile is-child box">
-                     <div class="tile is-parent">
+               <div class="tile is-ancestor">
+          <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
                 Cool Stuff We Do
@@ -73,6 +74,7 @@
               </figure>
             </article>
           </div>
+        </div>
             </article>
           </div>
         </div>
