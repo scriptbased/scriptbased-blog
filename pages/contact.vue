@@ -37,7 +37,7 @@
               <p class="title">
                 Twitter
               </p>
-              <a href="https://twitter.com/joelinthecloud">
+              <a href="https://twitter.com/joelinthecloud" target="_blank">
 			  <p class="subtitle">
                 @joelinthecloud
               </p>
@@ -56,12 +56,18 @@
               <p class="title">
                 Twitter
               </p>
-              <p class="subtitle">
+              <a href="https://twitter.com/scriptbased" target="_blank">
+			  <p class="subtitle">
                 @scriptbased
               </p>
               <figure class="image is-1by1">
-                <opti-image width="500" height="500" />
-              </figure>
+            <opti-image 
+                  :src="require('~/assets/uploads/twitter.png').src"
+                  :srcset="
+                    require('~/assets/uploads/twitter.png').srcSet"
+                />
+                </figure>
+				</a>
             </article>
           </div>
           <div class="tile is-parent">
@@ -69,12 +75,18 @@
               <p class="title">
                 LinkedIn
               </p>
-              <p class="subtitle">
+              <a href="https://www.linkedin.com/in/joelstocker/" target="_blank">
+			  <p class="subtitle">
                 joelstocker
               </p>
               <figure class="image is-1by1">
-                <opti-image width="500" height="500" />
+              <opti-image 
+                  :src="require('~/assets/uploads/twitter.png').src"
+                  :srcset="
+                    require('~/assets/uploads/linkedin.png').srcSet"
+                />
               </figure>
+			  </a>
             </article>
           </div>
         </div>
