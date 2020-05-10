@@ -55,7 +55,12 @@ export default {
 		{
           hid: 'twitter:title',
           name: 'twitter:title',
-          content: `Joel's Blog`
+          content: `[scriptbased] blog`
+        },
+		{
+          hid: 'twitter:image',
+          name: 'twitter:image',
+          content: `https://github.com/scriptbased/scriptbased-blog/raw/master/welcome.jpg`
         },
         {
           hid: 'og:site_name',
