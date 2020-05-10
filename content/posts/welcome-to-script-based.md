@@ -21,10 +21,10 @@ But let me first put in a disclaimer: I'm not a programmer. I wouldn't even call
 \
 I don't always adhere to "proper" coding standards. I take shortcuts. My formatting could be better. There's a lot of trial and error (followed by frustration and more Googling). And most importantly, I ask questions. Undoubtedly including "dumb questions". I know that people say that there's no such thing as a dumb question. And I've asked questions of which, after hearing the answer, thought to myself "FFS, why didn't I think of that", but if the result is progress, I don't care about it being labeled a dumb question.\
 \
-With that heads-up out of the way, what can you expect to find on \[script based]:\
+With that heads-up out of the way, what can you expect to find on \[script based]:
 
-* My ramblings and musings about automation, scripting and coding (both for work and home)\
-* Cool (sometimes quirky or pointless) things I've built, things I've "stolen" & modified/enhanced or new things I learned about\
+* My ramblings and musings about automation, scripting and coding (both for work and home)
+* Cool (sometimes quirky or pointless) things I've built, things I've "stolen" & modified/enhanced or new things I learned about
 * Things I find online from others about scripting and automation\
 * Memes...you have to have memes
 
