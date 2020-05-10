@@ -50,12 +50,22 @@ export default {
         {
           hid: 'twitter:card',
           name: 'twitter:card',
-          content: `summary_large_image`
+          content: `summary`
         },
 		{
           hid: 'twitter:title',
           name: 'twitter:title',
-          content: `[scriptbased] blog`
+          content: `[script based]`
+        },
+		{
+          hid: 'twitter:description',
+          name: 'twitter:description',
+          content: `a blog about automation`
+        },
+		{
+          hid: 'twitter:url',
+          name: 'twitter:url',
+          content: `https://www.twitter.com`
         },
 		{
           hid: 'twitter:image',
