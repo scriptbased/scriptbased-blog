@@ -13,10 +13,7 @@
               <p class="title">
                 Hello!
               </p>
-              <p class="subtitle">
-                What can I do for you?
-              </p>
-              <figure class="image is-1by1 ">
+              <figure class="image is-square ">
                 <opti-image
                   :src="require('~/assets/uploads/contact-person.jpg').src"
                   :srcset="
