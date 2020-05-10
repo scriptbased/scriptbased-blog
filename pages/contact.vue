@@ -11,7 +11,7 @@
           <div class="tile is-parent">
             <article class="tile is-child box">
               <p class="title">
-                Hello!
+                Hi, I'm Joel!
               </p>
               <figure class="image is-1by1">
                 <opti-image
