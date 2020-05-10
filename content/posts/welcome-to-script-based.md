@@ -9,9 +9,9 @@ featureImage: /uploads/scriptbased.jpg
 ---
 Like many of you, I've been spending a lot more time at home lately (for future reference: this blog was started in May 2020, during the Corona virus pandemic) and decided to clean up and organize my "digital environment", such as previous PC backups, old hard drives, my OneNote and other places I've used to store "stuff".\
 \
-During this ongoing "digital spring cleaning" (it is, and probably will be forever, a work in progress), I ran into quite a few things (past and present) related to automation, scripting and coding. Some of these are just ideas. But some of the ideas I had are in various stages of completion (why does my Notepad++ have 42 tabs open?).\
+During this ongoing "digital spring cleaning" (it is, and probably will forever be, a work in progress), I ran into quite a few things (past and present) related to automation, scripting and coding. Some of these are just ideas. But some of the ideas I've had are in various stages of completion (why does my Notepad++ have 42 tabs open?).\
 \
-Additionally, in my current job as a Sales Engineer at [ControlUp](https://www.controlup.com) (read more about my background here[: https://www.scriptbased.com/about](https://www.scriptbased.com/about)), I've been spending a lot more time talking about scripting and automation with our customers and as a result of those conversations, testing things out with PowerShell and Automated Actions in the ControlUp Real-time Console.\
+Additionally, in my current job as a Sales Engineer at [ControlUp](https://www.controlup.com) (read more about my background [here](https://www.scriptbased.com/about)), I've been spending a lot more time talking about scripting and automation with our customers and as a result of those conversations, testing things out with PowerShell and Automated Actions in the ControlUp Real-time Console.\
 \
 And it's not just "Work Automation". I'm also passionate about [Home Automation](https://www.scriptbased.com/categories/home-automation). Using a mix of Samsung SmartThings, Philips Hue and Google Home, together with various other pieces of hardware and software/platforms, I had plenty of run-ins with scripting and coding in that area as well.
 
