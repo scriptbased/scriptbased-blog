@@ -34,4 +34,4 @@ Although I'm not committing to a cadence (I will post when i run into things I b
 \
 I hope you will enjoy my blog!\
 \
-PS follow me on Twitter: [https://twitter.com/joelinthecloud](@joelinthecloud){:target="_blank"} (me) and [https://twitter.com/scriptbased](@scriptbased){:target="_blank"} (blog account)
+PS follow me on Twitter: [@joelinthecloud](https://twitter.com/joelinthecloud) (me) and [@scriptbased](https://twitter.com/scriptbased) (blog account)
