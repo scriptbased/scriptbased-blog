@@ -37,7 +37,7 @@
               <p class="title">
                 Twitter
               </p>
-              <a v-bind:href="https:/twitter.com/joelinthecloud"><p class="subtitle">
+              <a href="https:/twitter.com/joelinthecloud"><p class="subtitle">
                 @joelinthecloud
               </p>
               <figure class="image is-1by1">
