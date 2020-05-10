@@ -24,10 +24,7 @@
               <br />
               <div class="content">
                 <p>
-                  This form doesn't actually work but would be easy enough to
-                  slap an action on to have it post wherever you'd like. Or put
-                  the netlify attribute on it and have netlify handle all your
-                  form submissions...
+                  If you have any questions about the contents of this site, the easiest way to connect with me is through DM on Twitter, or LinkedIn. Click how you want to connect.
                 </p>
               </div>
             </article>
@@ -45,9 +42,9 @@
               </p>
               <figure class="image is-1by1">
 			                  <opti-image 
-                  :src="require('~/assets/uploads/contact-person.jpg').src"
+                  :src="require('~/assets/uploads/twitter.png').src"
                   :srcset="
-                    require('~/assets/uploads/contact-person.jpg').srcSet
+                    require('~/assets/uploads/twitter.png').srcSet
                   "
                 />
               </figure>
