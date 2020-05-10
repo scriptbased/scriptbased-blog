@@ -21,8 +21,7 @@
           </p>
           <h3>about me</h3>
           <p>
-The personal bit:<br> 
-After being born and raised in The Netherlands, and living in London for a few years, moved to Florida in 2008. 
+The personal bit: After being born and raised in The Netherlands, and living in London for a few years, moved to Florida in 2008. 
 <br>
 Some "trivia" about me:
 <ul>
@@ -32,8 +31,8 @@ Some "trivia" about me:
 <li>Favorite color: orange</li>
 <li>Random: you're never too old for Lego</li>
 </ul>
-The professional bit:
-Professionally it has mostly been Citrix, since I spend the majority of my career there (close to 19 years). Mostly had roles in Sales Engineering or SE related as well as a few Product roles. I decided to leave Citrix in September, because I was missing the culture that you can really only find in smaller organizations: short lines of communication, less internal meetings, less rules and making a direct impact on the success of a company. And that eventually led me to ControlUp and I can't express how excited I am to get back into the field and do it with such a talented group of people!"
+<br>
+The work bit: My professional life has mostly been Citrix, since I spend the majority of my career there (close to 19 years). Mostly had roles in Sales Engineering or SE related as well as a few Product roles. I decided to leave Citrix in 2019, because I was missing the culture that you can really only find in smaller organizations: short lines of communication, less internal meetings, less rules and making a direct impact on the success of a company. And that eventually led me to ControlUp where I work today.
           </p>
         </div>
       </template>
